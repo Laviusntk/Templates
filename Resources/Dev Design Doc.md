@@ -6,16 +6,17 @@
   <h3 align="center">Logo</h3>
 
   <p align="center">
-    Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://reponame/issues/new?template=bug.md">Code Repo</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Azure Devops Tasks</a>
+
+       Engineer: .... | Project Lead:.... | Date:... | Status:...
   </p>
 </p>
 
 
-<h2 align="center">Dev Design Doc Template</h2>
+<h2 align="center">Project X Dev Design Doc Template</h2>
 <p align="center">
 
 
@@ -24,6 +25,35 @@
 
 ![react-material-admin-demo](./../Resources/Header.jpg)
 
+
+- Dev Design Doc Template
+    - Describe goals and measures of success
+        - Accessibility goals
+        - features
+        - Any integration with internal features
+        - Scalability goals
+        - Availability goals
+        - scalability
+        - reliability
+        - Performance
+        - Testability
+        - Agility
+        - Extensibility 
+        - Maintainability
+            - Customer support
+            - Bug reports etc
+        - Modularity
+        - Interoperability
+        - Feasibility(timeframe and budget)
+        - Storage of files data
+    - Describe the architectural goals of the system along with drawbacks and alternative options
+    - Describe Data handling and rentention policies
+    - Describe Security Handling (security thread model)
+    - Describe testing plans
+    - Describe documentation plan
+    - Describe Internalisation, personalisation and localisation
+    - Potential migration Migration
+    - OKR
 ## Getting Started
 
 <blockquote>
